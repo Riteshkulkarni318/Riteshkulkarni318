@@ -59,7 +59,7 @@ I specialize in AI/ML on paper, but my actual love is backend engineering — AP
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Riteshkulkarni318&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Riteshkulkarni318&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-repository-contribution-stat-six-theta.vercel.app/api?username=Riteshkulkarni318)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -72,7 +72,6 @@ I specialize in AI/ML on paper, but my actual love is backend engineering — AP
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Riteshkulkarni318/Riteshkulkarni318/output/github-contribution-grid-snake.svg">
 </picture>
 
-*(auto-generated daily by a GitHub Action — see setup notes below)*
 
 ---
 
