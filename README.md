@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ritesh Kulkarni</h1>
-<h3 align="center">B.Tech CSE (AI & ML) student diving deep into Backend Engineering & Open Source</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=180&section=header&text=Ritesh%20Kulkarni&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer%20in%20training%20%7C%20AI%2FML%20by%20degree&descAlignY=62&descSize=18"/>
+
+<p align="center">
+<a href="https://github.com/Riteshkulkarni318">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+student;Leveling+up+in+Backend+Engineering;Learning+Python+%2B+contributing+to+Open+Source;Building+for+Indian+communities+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG"/>
+</a>
+</p>
 
 <p align="center">
 I specialize in AI/ML on paper, but my actual love is backend engineering — APIs, databases, deployments, and the plumbing that makes products work. I build practical tech for Indian communities (agriculture, small businesses) mostly through hackathons, and I'm currently leveling up in Python and looking to contribute to open source.
@@ -59,7 +64,12 @@ I specialize in AI/ML on paper, but my actual love is backend engineering — AP
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🐍 Contribution Snake
+
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riteshkulkarni318/Riteshkulkarni318/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riteshkulkarni318/Riteshkulkarni318/output/github-contribution-grid-snake.svg"> <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Riteshkulkarni318/Riteshkulkarni318/output/github-contribution-grid-snake.svg"> </picture>
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=100&section=footer"/>
 
 <p align="center">
 <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=Riteshkulkarni318&icon=0&color=0" alt="profile views"/></a>
