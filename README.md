@@ -66,7 +66,14 @@ I specialize in AI/ML on paper, but my actual love is backend engineering — AP
 
 ### 🐍 Contribution Snake
 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riteshkulkarni318/Riteshkulkarni318/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riteshkulkarni318/Riteshkulkarni318/output/github-contribution-grid-snake.svg"> <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Riteshkulkarni318/Riteshkulkarni318/output/github-contribution-grid-snake.svg"> </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riteshkulkarni318/Riteshkulkarni318/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riteshkulkarni318/Riteshkulkarni318/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Riteshkulkarni318/Riteshkulkarni318/output/github-contribution-grid-snake.svg">
+</picture>
+
+*(auto-generated daily by a GitHub Action — see setup notes below)*
+
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=100&section=footer"/>
