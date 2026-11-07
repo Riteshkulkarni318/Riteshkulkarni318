@@ -58,9 +58,6 @@ I specialize in AI/ML on paper, but my actual love is backend engineering — AP
 ![](https://streak-stats.demolab.com/?user=Riteshkulkarni318&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Riteshkulkarni318&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-repository-contribution-stat-six-theta.vercel.app/api?username=Riteshkulkarni318&theme=dark)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
